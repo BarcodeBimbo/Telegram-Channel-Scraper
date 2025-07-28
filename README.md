@@ -1,6 +1,30 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b6ce7b92-f871-4ba7-85c8-781c4e38e31d"" alt="" height="200">
+</div>
+
+<p align="center">
+   
+  <a href="https://www.python.org/downloads/">
+    <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Red-Discordbot">
+  </a>
+   
+  <a href="https://github.com/BarcodeBimbo/Telegram-Channel-Scraper/blob/main/TScan.py">
+    <img src="https://img.shields.io/badge/Telegram-python-red.svg" alt="TScan.py">
+  </a>
+  
+</p>
+
+
 # 📦 Telegram Channel Scraper & Reuploader
 
 An advanced, async Python script to scrape and reupload files from a Telegram channel. Built with automation, progress feedback, deduplication, and efficiency in mind — perfect for mirroring or archiving Telegram content.
+
+---
+# Proof Of Concept
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/15cc3636-b60c-40a0-b5f6-3a7396c1f0ea.mp4"></video>
+</div>
 
 ---
 
